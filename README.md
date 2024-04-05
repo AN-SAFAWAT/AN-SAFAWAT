@@ -7,7 +7,7 @@ Hello, I am Safawat Al Naser, a data engineering professional with a passion for
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg) ![AWS](https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg) ![MYSQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
-
+![json](https://img.shields.io/badge/dynamic/json)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AymanSulaiman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
